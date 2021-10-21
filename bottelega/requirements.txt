@@ -3,7 +3,7 @@ aiohttp==3.4.4
 asn1crypto==0.24.0
 async-timeout==3.0.1
 attrs==18.2.0
-Babel==2.6.0
+Babel==2.9.1
 cached-property==1.5.1
 certifi==2018.8.24
 cffi==1.11.5
